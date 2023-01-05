@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;             //Semih Engin 191180037 Memory Games
+using System.Windows.Forms;             
 
 namespace MemoryGameTotal
 {                           
